@@ -1,37 +1,24 @@
 # store_page_model
 
-## Pagina principal:
+* [X] Brainstorm
 
-### * [ ]Cabeçalho
+* local para perguntas dos clientes
+* barra de pesquisa
+* tela de login
+* tela de cadastro
+* tela de produtos favoritos
+* tela de meus pedidos
+* explicações de produtos
+* links para redes sociais
+* formas de pagamento
 
-* [ ] logotipo da empresa
-
-### * [ ] Principal
-
-### * [ ] Rodapé
+* [ ] Criar o layout do projeto web/mobile (figma)
 
 
-. pagina de compras
 
-. local para perguntas dos clientes
+# Detalhes:
 
-. barra de pesquisa
-
-. tela de login
-
-. tela de cadastro
-
-. tela de produtos favoritos
-
-. tela de meus pedidos
-
-. tela de explicações de produtos
-
-. links para redes sociais
-
-. formas de pagamento
-
-# Cabeçalho
+### Cabeçalho
 
 * logo tipo da empresa
 * barra de pesquisa
