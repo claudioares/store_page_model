@@ -13,8 +13,9 @@
 * formas de pagamento
 
 * [ ] Criar o layout do projeto web/mobile (figma)
-
-
+  * [X] definir cores
+  * [X] construir cabeçalho
+  * [ ] construir bunners para cabeçalho
 
 # Detalhes:
 
@@ -28,7 +29,6 @@
   * celulares
   * moveis
   * eletrodomesticos
-  * tv e video
   * informatica
   * baixe o app
   * nossas lojas
