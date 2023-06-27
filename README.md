@@ -13,13 +13,15 @@
 * formas de pagamento
 
 * [X] Criar o layout do projeto web/mobile (figma)
+
   * [X] definir cores
   * [X] construir cabeçalho
   * [X] construir bunners para cabeçalho
-* [X] Cards de pagamento
-  * [X] cartao
-  * [X] cartao da loja
-  * [X] pix
+* [X] Cards de pagamentocartao
+
+  cartao da loja
+
+  pix
 
 # Detalhes:
 
@@ -45,4 +47,4 @@
 
 ### Oferta do dia
 
-* cards de ofertas
+* [ ] cards de ofertas
