@@ -12,10 +12,14 @@
 * links para redes sociais
 * formas de pagamento
 
-* [ ] Criar o layout do projeto web/mobile (figma)
+* [X] Criar o layout do projeto web/mobile (figma)
   * [X] definir cores
   * [X] construir cabeçalho
-  * [ ] construir bunners para cabeçalho
+  * [X] construir bunners para cabeçalho
+* [X] Cards de pagamento
+  * [X] cartao
+  * [X] cartao da loja
+  * [X] pix
 
 # Detalhes:
 
@@ -38,3 +42,7 @@
   * meus pedidos
   * carrinho de compras
   * feedback dos clientes
+
+### Oferta do dia
+
+* cards de ofertas
